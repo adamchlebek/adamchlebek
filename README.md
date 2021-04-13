@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Chlebek</h1>
-<h3 align="center">A hard-working Software Engineer from Michigan.</h3>
+<h3 align="center">I'm a passionate Software Engineer from Michigan.</h3>
 
 - 🔭 I’m currently working at [Upparel, Inc](https://www.upparel.co/)
 
