@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Chlebek</h1>
 <h3 align="center">I'm a passionate Software Engineer from Michigan.</h3>
 
-- 🔭 I’m currently working at [Upparel, Inc](https://www.upparel.co/)
+- 🔭 I’m currently working at [Merch](https://www.merch.co/)
 
 - 👨‍💻 All of my projects are available at [https://adamchlebek.ml/](https://adamchlebek.ml/)
 
