@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Merch](https://www.merch.co/)
 
-- 👨‍💻 All of my projects are available at [https://adamchlebek.ml/](https://adamchlebek.ml/)
+- 👨‍💻 All of my projects are available at [https://adamchlebek.com/](https://adamchlebek.com/)
 
 - 📫 How to reach me **adamchlebek@live.com**
 
